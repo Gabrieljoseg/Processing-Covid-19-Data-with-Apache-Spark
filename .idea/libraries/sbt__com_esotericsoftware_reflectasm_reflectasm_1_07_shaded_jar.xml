@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.esotericsoftware.reflectasm:reflectasm:1.07:shaded:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/esotericsoftware/reflectasm/reflectasm/1.07/reflectasm-1.07-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

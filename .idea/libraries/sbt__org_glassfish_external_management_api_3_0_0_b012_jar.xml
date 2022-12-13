@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.glassfish.external:management-api:3.0.0-b012:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

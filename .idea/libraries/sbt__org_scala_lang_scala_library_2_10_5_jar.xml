@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-lang:scala-library:2.10.5:jar" type="Scala">
+    <properties>
+      <language-level>Scala_2_10</language-level>
+      <compiler-classpath>
+        <root url="file://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar" />
+        <root url="file://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.4/jansi-1.4.jar" />
+        <root url="file://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/jline/2.10.5/jline-2.10.5.jar" />
+        <root url="file://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.10.5/scala-compiler-2.10.5.jar" />
+        <root url="file://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
