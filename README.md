@@ -3,7 +3,7 @@
 
 Este repositório tratará de um projeto de engenheria de dados pensado pela Semantix como parte final e facultativa do curso Big Data Engineer. 
 
-## Objetivos do projeto
+## Etapas do projeto
 
 1. Enviar os dados para o hdfs
 2. Otimizar todos os dados do hdfs para uma tabela Hive particionada por município.
